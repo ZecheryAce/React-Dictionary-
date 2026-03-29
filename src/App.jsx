@@ -3,8 +3,6 @@ import React from "react";
 import WordForm from "./components/WordForm/WordForm";
 import CardsContainer from "./components/CardsContainer/CardsContainer";
 
-import "./App.css";
-
 class App extends React.Component {
   state = {
       words: [
